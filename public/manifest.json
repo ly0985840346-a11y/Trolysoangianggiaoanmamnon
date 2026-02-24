@@ -1,0 +1,22 @@
+{
+  "short_name": "Giáo án AI",
+  "name": "Trợ lý Giáo án Mầm non AI",
+  "icons": [
+    {
+      "src": "https://picsum.photos/id/20/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/id/20/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?fullscreenApplet=true",
+  "background_color": "#FDFBF7",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#5A5A40",
+  "description": "Ứng dụng soạn giáo án mầm non thông minh."
+}
